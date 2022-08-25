@@ -1,4 +1,5 @@
-### What is this?
+# What is this?
+## This is an automated tool writtent in Python to monitor your databases.
 We can use this script to retrieve data from database, and set conditions to appropriately give alerts instead of manually checking database
 
 Installation:
